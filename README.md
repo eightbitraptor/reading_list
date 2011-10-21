@@ -28,5 +28,5 @@
 
 ## Other people have suggested I add these (I haven't read them)
 
-  * [The Art of UNIX Programming](http://catb.org/~esr/writings/taoup/), Eroc Raymond
+  * [The Art of UNIX Programming](http://catb.org/~esr/writings/taoup/), Eric Raymond
   * [Eloquent Ruby](http://eloquentruby.com/), Russ Olsen
