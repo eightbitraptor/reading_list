@@ -2,7 +2,7 @@
 
 ## Books
 
-  * [Metaprogramming Ruby](http://pragprog.com/book/ppmetr/metaprogramming-ruby), Paulo Perrotta
+  * [Metaprogramming Ruby](http://pragprog.com/book/ppmetr/metaprogramming-ruby), Paolo Perrotta
   * [Design Patterns in Ruby](http://designpatternsinruby.com/), Russ Olsen
   * [The Ruby Programming Language](http://shop.oreilly.com/product/9780596516178.do), Yukihiro Matsumoto
   * [Growing OO Software, guided by tests](http://www.amazon.co.uk/Growing-Object-Oriented-Software-Guided-Signature/dp/0321503627/ref=wl_it_dp_o_npd?ie=UTF8&coliid=I1R5VI03D7VG32&colid=2UJF3HBHGUHN5), Steve Freeman & Nat Pryce
