@@ -3,7 +3,7 @@
 ## Books
 
   * [The Ruby Programming Language](http://shop.oreilly.com/product/9780596516178.do), Yukihiro Matsumoto
-  * [Practical Object Oriented Design in Ruby](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330_, Sandi Metz
+  * [Practical Object Oriented Design in Ruby](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330), Sandi Metz
   * [Design Patterns in Ruby](http://designpatternsinruby.com/), Russ Olsen
   * [Growing OO Software, guided by tests](http://www.amazon.co.uk/Growing-Object-Oriented-Software-Guided-Signature/dp/0321503627/ref=wl_it_dp_o_npd?ie=UTF8&coliid=I1R5VI03D7VG32&colid=2UJF3HBHGUHN5), Steve Freeman & Nat Pryce
   * [Clean Code](http://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), Robert C Martin
