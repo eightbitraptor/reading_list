@@ -11,7 +11,7 @@
   * [Eloquent Ruby](http://eloquentruby.com/), Russ Olsen
   * [Exceptional Ruby](http://exceptionalruby.com/), Avdi Grimm
   * [Metaprogramming Ruby](http://pragprog.com/book/ppmetr/metaprogramming-ruby), Paolo Perrotta
-  * [Refactoring (ruby edition_](http://eloquentruby.com/), Jay Fields, Shane Harvie, Martin Fowler & Kent Beck
+  * [Refactoring (ruby edition)](http://martinfowler.com/books/refactoringRubyEd.html), Jay Fields, Shane Harvie, Martin Fowler & Kent Beck
   * [Seven Languages in Seven Weeks](http://www.amazon.co.uk/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X/ref=wl_it_dp_o_npd?ie=UTF8&coliid=ITJXQVVJJ26KS&colid=2UJF3HBHGUHN5), Bruce Tate
 
 ## Videos
