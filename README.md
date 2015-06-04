@@ -1,4 +1,4 @@
-# Matt's Super duper reading list of Doom
+# Matt's development reading list
 
 ## Books
 
