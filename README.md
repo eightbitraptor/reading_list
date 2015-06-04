@@ -38,6 +38,6 @@
   * [CodingDojo Kata list](http://codingdojo.org/cgi-bin/wiki.pl?KataCatalogue) - kata to attempt
   * [The PragProg kata list](http://codekata.pragprog.com/) - more kata.
 
-## Other people have suggested I add these (I haven't read them)
+## UNIX/Linux
 
   * [The Art of UNIX Programming](http://catb.org/~esr/writings/taoup/), Eric Raymond
